@@ -1,5 +1,6 @@
 # Aplicacion Demo de Adopción de Mascotas
 
+El proyecto tambien se encuentra deployado en Firebase [deploy](my-app-adoptions-pets.web.app), para ver su comportamiento sin necesidad de correrlo localmente
 
 
 ## Procedimiento para poner en marcha el proyecto demo
